@@ -1,5 +1,13 @@
 # AWS CDK Hello World プロジェクト
 
+## リポジトリ
+
+- GitHub: [https://github.com/AkitoAndo/hello_world](https://github.com/AkitoAndo/hello_world)
+
+## プロダクト
+
+- ウェブサイト: [http://helloworldcdkstack-helloworldbucketd435d97f-exmkxgnrymxf.s3-website-ap-northeast-1.amazonaws.com](http://helloworldcdkstack-helloworldbucketd435d97f-exmkxgnrymxf.s3-website-ap-northeast-1.amazonaws.com)
+
 このプロジェクトは、AWS CDK を使用してシンプルな Hello World ウェブサイトを構築するためのサンプルプロジェクトです。
 
 ## 概要
